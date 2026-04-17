@@ -1,7 +1,7 @@
 export const SITE = {
-  website: "https://astropages-bilingual.pages.dev", // replace this with your deployed domain
+  website: "https://blog.azxue.de", // replace this with your deployed domain
   author: "tosaki",
-  profile: "https://t0saki.com",
+  profile: "https://blog.azxue.de",
   desc: "A bilingual blog based on Astro Paper",
   title: "AstroPaper Bilingual",
   ogImage: "astropaper-og.jpg",
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/t0saki/AstroPages-Bilingual/edit/main/",
+    url: "https://github.com/nwfnyfgvfir/AstroPages-Bilingual/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
