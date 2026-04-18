@@ -57,7 +57,12 @@ export default config({
         ),
         content: fields.markdoc({ 
           label: 'Content',
-          extension: 'md'
+          extension: 'md',
+          // 👇 加上这一段 image 配置 👇
+          image: {
+            directory: 'public/images/posts', // 图片物理保存到 public 目录下
+            publicPath: '/images/posts/',     // 写入 Markdown 的路径
+          }
         }),
       },
     }),
