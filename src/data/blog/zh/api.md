@@ -14,4 +14,12 @@ tags:
 3，在钱包管理处确认订阅已激活。在左侧找到令牌管理，点添加令牌。\
 ![](/images/posts/api/image.png)\
 4，复制令牌，打开cherry studio，右上角点设置\
-![](/images/posts/api/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-18%20101237.png)
+![](/images/posts/api/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-18%20101237.png)\
+5，点添加，提供商类型选new api,提供商名称随便写
+
+![](/images/posts/api/image.png)\
+6，输入api地址，密钥，点管理添加模型。把所有的+都点了\
+![](/images/posts/api/image.png)\
+7，左上角点首页，开始聊天吧。\
+![](/images/posts/api/image.png)\
+这个位置可以切换模型
