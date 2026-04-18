@@ -7,3 +7,4 @@ featured: true
 tags:
   - AI
 ---
+![](/images/posts/api/image.png)
