@@ -34,7 +34,7 @@ export default config({
         content: fields.markdoc({ 
           label: '正文',
           extension: 'md',
-          // 👇 必须包裹在 options 里 👇
+          // 👇 必须包裹在 options 里 
           options: {
             image: {
               directory: 'public/images/posts', // 图片物理保存到 public 目录下
